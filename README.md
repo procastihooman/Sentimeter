@@ -1,2 +1,2 @@
 # sentimeter
-ML model prototype of sentimental analysis for 
+ML model prototype of sentimental analysis for text and image
